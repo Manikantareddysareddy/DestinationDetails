@@ -1,0 +1,37 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.list-container {
+  list-style-type: none;
+}
+.bg-container1 {
+  margin: 20px;
+}
+.heading1 {
+  font-family: 'Roboto';
+  color: #252627;
+  font-size: 12px;
+}
+.image {
+  height: 25vh;
+  width: 20vw;
+}
+.ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 200px;
+  margin-right: 200px;
+  justify-content: center;
+}
